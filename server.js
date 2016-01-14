@@ -1,3 +1,5 @@
+// Start server with: node server
+
 //var fs = require('fs');
 var path = require('path');
 var express = require('express');

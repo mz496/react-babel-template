@@ -1,8 +1,6 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+# react-babel-template
 
-# React Tutorial
-
-This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html).
+React + Babel template. Adapted from Facebook's React Tutorial. The following is the usage of the various server implementations from the original:
 
 ## To use
 
